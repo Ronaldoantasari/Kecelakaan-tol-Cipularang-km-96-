@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Kecelakaan Tol Cipularang</title>
+</head>
+<body>
+  <img src="kecelakaan-di-tol-cipularang_169.png" width="75%">
+</body>
+</html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kecelakaan Cipularang: Truk Rem Blong Tabrak Kendaraan</title>
+  <style>
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes fadeOut {
+      0% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    .fade-in {
+      animation: fadeIn 3s ease-in-out;
+    }
+    .fade-out {
+      animation: fadeOut 3s ease-in-out;
+    }
+    body {
+      background-color: #f4f4f4;
+      color: #333;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 36px;
+      font-weight: bold;
+      background-color: #ffffff;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      font-size: 50px; /* Large subtitle similar to TV news */
+      font-weight: bold;
+      color: #FF0000; /* Red color for emphasis */
+      background-color: #000000;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      margin: 20px 0;
+    }
+    p {
+      background-color: #ffffff;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .search-section {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #ffffff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .search-box {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .hashtags {
+      margin-top: 15px;
+    }
+    .hashtag {
+      display: inline-block;
+      background-color: #007BFF;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 20px;
+      margin: 5px;
+      text-decoration: none;
+    }
+    .hashtag:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <article>
+    <header class="fade-in">
+      <h1>Kecelakaan Maut di Cipularang: Truk Rem Blong Tabrak Kendaraan</h1>
+      <h2>Andon TV</h2> <!-- Large Subtitle for TV News -->
+      <p><em>Editor: Tegar Ronaldo Antasari</em></p>
+      <p><strong>11 November 2024</strong></p>
+    </header>
+    <section class="fade-in">
+      <p>Pada hari ini, Senin 11 November 2024, terjadi kecelakaan beruntun di Tol Cipularang, kilometer 92. Sebuah truk yang diduga mengalami kerusakan pada sistem remnya, atau rem blong, menabrak sejumlah kendaraan yang sedang melaju. Kejadian ini menyebabkan 23 orang menjadi korban, dengan satu di antaranya meninggal dunia akibat kecelakaan tersebut. Petugas langsung melakukan evakuasi, sementara lalu lintas dialihkan untuk menangani kejadian ini.</p>
+      <p>Peristiwa ini terjadi pada pukul 15:14, di tengah cuaca yang cukup hujan. Saat ini, pihak berwenang masih bekerja keras untuk mengevakuasi kendaraan yang terlibat dan membersihkan jalur yang terhalang. Kondisi di lokasi kecelakaan sempat menyebabkan kemacetan panjang.</p>
+    </section>
+    <footer class="fade-out">
+      <p>Proses evakuasi sedang berlangsung dan diharapkan lalu lintas kembali normal dalam beberapa jam ke depan. Pihak berwenang terus melakukan upaya untuk memastikan keselamatan semua pihak yang terlibat dalam kejadian ini.</p>
+      <p>💔🙏🏼 <strong>Pray for Cipularang</strong> 🙏🏼💔</p>
+    </footer>
 
+    <section class="search-section">
+      <h2>Cari Berita</h2>
+      <input type="text" class="search-box" placeholder="Cari berita terkait...">
+    </section>
+
+    <section class="hashtags">
+      <h3>Topik Terkait</h3>
+      <a href="#" class="hashtag">#KecelakaanCipularang</a>
+      <a href="#" class="hashtag">#RemBlong</a>
+      <a href="#" class="hashtag">#PrayForCipularang</a>
+      <a href="#" class="hashtag">#BeritaTerkini</a>
+      <a href="#" class="hashtag">#KeselamatanLaluLintas</a>
+    </section>
+  </article>
+</body>
+</html>
